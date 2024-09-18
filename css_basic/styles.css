@@ -24,3 +24,13 @@ footer {
   background-color: #f4f4f4; /* Optional for visibility */
   text-align: center;
 }
+main {
+  background-color: aqua;
+}
+aside {
+  background-color: aquamarine;
+}
+footer,
+header {
+  background-color: beige;
+}
